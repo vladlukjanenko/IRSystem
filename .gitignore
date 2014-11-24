@@ -1,0 +1,7 @@
+# Files #
+.classpath
+.project
+
+# Directories #
+.settings/
+build/

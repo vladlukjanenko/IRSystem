@@ -1,0 +1,23 @@
+drop table examination cascade constraints;
+drop table groupstudent cascade constraints;
+drop table irs_report cascade constraints;
+drop table olympiad cascade constraints;
+drop table progress cascade constraints;
+drop table publication cascade constraints;
+drop table student cascade constraints;
+drop table subject cascade constraints;
+drop table university cascade constraints;
+drop table teacher cascade constraints;
+drop table bridge cascade constraints;
+drop table bridge2 cascade constraints;
+
+drop sequence examination_seq;
+drop sequence groupstudent_seq;
+drop sequence irs_report_seq;
+drop sequence olympiad_seq;
+drop sequence progress_seq;
+drop sequence publication_seq;
+drop sequence student_seq;
+drop sequence university_seq;
+drop sequence subject_seq;
+drop sequence teacher_seq;
