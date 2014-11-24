@@ -35,9 +35,9 @@
 		  destroy-method="close">
 		  
 		<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver"/>
-		<property name="url" value="jdbc:oracle:thin:SPERKACHMO/@10.18.16.116:1521:orcl"/>
-		<property name="username" value="MOSPERKACH"/>
-		<property name="password" value="sperkach"/>
+		<property name="url" value="jdbc:oracle:thin:/@localhost:1521:orcl"/>
+		<property name="username" value=""/>
+		<property name="password" value=""/>
 	</bean>
 	
 	<!-- Hibernate session -->
